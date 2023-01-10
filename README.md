@@ -1,1 +1,2 @@
-# playground-season-3-episode-1
+# A kaggle series competition 
+<b>new episode every tuesday</b>
